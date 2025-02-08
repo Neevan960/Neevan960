@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Naveen 
-- 🏫Chemical Engineer
-- 👀 I’m interested in Bigdata
-- 🌱 I’m currently learning Python,Data Analytics and AI which are very useful to Analysize the data and get some meaning full insights
+- 🏫Data Engineer
+- 👀 I’m interested in Bigdata Technologies
 - 📫 How to reach me https://www.linkedin.com/in/naveen-kumar-reddy-bedadala-2230b7126
 
 <!---
